@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "settingsSync.ignoredSettings": [
+        "-http.proxy",
+        "-http.proxySupport"
+    ],
+    "http.proxySupport": "on",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.format.enable": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
+}
